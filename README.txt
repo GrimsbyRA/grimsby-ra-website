@@ -1,13 +1,15 @@
-GRIMSBY REFEREES ASSOCIATION WEBSITE
+Grimsby Referees Association website files
 
-Files:
-- index.html: main website homepage
+Files included:
+- index.html: complete homepage
 - grimsby-ra-logo.png: association logo
+- next-referees-course.jpg: original Lincs FA referee course poster
 
-To publish on GitHub Pages:
-1. Download and extract this ZIP.
-2. In https://github.com/GrimsbyRA/grimsby-ra-website, replace the existing index.html with this version.
-3. Keep your existing CNAME file in the repository root and keep grimsby-ra-logo.png alongside index.html.
-4. Commit the changes to the main branch and wait for GitHub Pages to deploy.
+Publishing instructions:
+1. Upload/replace index.html in the root of the GitHub Pages repository.
+2. Upload next-referees-course.jpg alongside index.html.
+3. Keep the existing CNAME file in the repository.
+4. Keep grimsby-ra-logo.png alongside index.html.
+5. Commit changes to main and wait for GitHub Pages to deploy.
 
-The membership area includes a button linking to the association's Google membership form.
+Includes the GTFC Academy, referee mentoring, member news, welfare, membership, events and course sections.
