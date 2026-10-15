@@ -1,14 +1,26 @@
-GRIMSBY REFEREES ASSOCIATION WEBSITE REFRESH
+GRIMSBY REFEREES ASSOCIATION — WEBSITE FILES
 
-Files in this package:
-- index.html: updated homepage, including the “Who are we?” committee section, events and Facebook link.
-- grimsby-ra-logo.png: association logo used by the site.
+Included in this ZIP:
+- index.html — complete responsive website homepage
+- grimsby-ra-logo.png — association crest used on the site
+- README.txt — these publishing instructions
 
-PUBLISHING
-1. Extract this ZIP file.
+The refreshed website has a colourful football-inspired design, friendlier wording, event cards, the “Who are we?” committee section, membership fees, a Facebook link and official IFAB law-change link.
+
+PUBLISHING TO GITHUB PAGES
+1. Extract this ZIP on your phone or computer.
 2. Open https://github.com/GrimsbyRA/grimsby-ra-website
-3. Replace the existing index.html with this updated index.html and commit the change to the main branch.
-4. Keep the existing CNAME file in the repository root; do not delete or replace it.
-5. Wait for GitHub Pages to finish deploying, then refresh https://grimsbyreferees.co.uk
+3. Replace the repository's existing index.html with this index.html and commit the change to the main branch.
+4. Keep the existing CNAME file in the repository root. Do not delete it.
+5. Keep grimsby-ra-logo.png in the same root folder as index.html.
+6. Wait for GitHub Pages deployment to finish, then visit https://grimsbyreferees.co.uk and refresh the page.
 
-The Vice Chairman position is shown as currently vacant. The events currently listed are Quiz Night on 2 November 2026 (venue/time TBC), December (TBC) and February (TBC).
+CURRENT CONTENT
+- Quiz Night: Monday 2 November 2026; venue and time TBC.
+- December event: date and details TBC.
+- February event: date and details TBC.
+- Committee details include Phillip Evans, Chris Timson, Chris Good, Ashley Cooper, Robert Nun and Martin Hepworth; Vice Chairman is shown as vacant.
+- Facebook: https://www.facebook.com/share/19cnpGGVvm/
+- IFAB law changes: https://theifab.com/law-changes/latest/
+
+Before publishing, please confirm membership fees and event details are still current.
