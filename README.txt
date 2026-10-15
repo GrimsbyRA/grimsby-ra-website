@@ -13,4 +13,4 @@ To publish using GitHub Pages:
 
 No build tools or external libraries are required. All layout and styling are included in index.html.
 
-Note: Event dates are deliberately described as to be confirmed. Confirm association membership fees and details before changing them.
+The homepage includes Quiz Night on Monday 2 November 2026. The venue and start time were not provided, so the page says these are to be confirmed and directs visitors to Facebook for updates. The official IFAB 2026/27 law-changes page is linked. Confirm association membership fees and event details before publishing.
