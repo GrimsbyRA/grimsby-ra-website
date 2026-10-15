@@ -1,16 +1,21 @@
 GRIMSBY REFEREES ASSOCIATION WEBSITE REFRESH
 
-Files:
-- index.html: refreshed, mobile-friendly homepage
-- grimsby-ra-logo.png: association crest (same filename as existing site)
+Files in this folder:
+- index.html: the website homepage
+- grimsby-ra-logo.png: association logo used by the homepage
 
-To publish using GitHub Pages:
+Updates included:
+- Prominent Facebook button with Facebook logo on the homepage
+- Facebook links for event updates
+- Quiz Night on Monday 2 November 2026 (venue and time TBC)
+- December event (date TBC)
+- February event (date TBC)
+- Link to the official current IFAB law changes page
+
+To publish on GitHub Pages:
 1. Open https://github.com/GrimsbyRA/grimsby-ra-website
-2. Open index.html and choose Edit (pencil), or upload the replacement index.html from this folder.
-3. Replace the full contents with this new index.html and commit the change to the main branch. Alternatively use Add file > Upload files and upload index.html plus the logo if needed; if GitHub warns about overwriting, confirm that index.html is being replaced.
-4. Keep the repository Pages settings as main branch / root and keep the custom domain grimsbyreferees.co.uk.
-5. Wait a minute or two and refresh https://grimsbyreferees.co.uk.
+2. Open index.html and choose Edit, or upload/replace the file at the repository root.
+3. Commit the change to the main branch. Keep grimsby-ra-logo.png and CNAME in the repository root.
+4. Wait for the GitHub Pages deployment to complete, then check https://grimsbyreferees.co.uk
 
-No build tools or external libraries are required. All layout and styling are included in index.html.
-
-The homepage includes Quiz Night on Monday 2 November 2026. The venue and start time were not provided, so the page says these are to be confirmed and directs visitors to Facebook for updates. The official IFAB 2026/27 law-changes page is linked. Confirm association membership fees and event details before publishing.
+The repository's CNAME file should contain exactly: grimsbyreferees.co.uk
