@@ -1,21 +1,14 @@
 GRIMSBY REFEREES ASSOCIATION WEBSITE REFRESH
 
-Files in this folder:
-- index.html: the website homepage
-- grimsby-ra-logo.png: association logo used by the homepage
+Files in this package:
+- index.html: updated homepage, including the “Who are we?” committee section, events and Facebook link.
+- grimsby-ra-logo.png: association logo used by the site.
 
-Updates included:
-- Prominent Facebook button with Facebook logo on the homepage
-- Facebook links for event updates
-- Quiz Night on Monday 2 November 2026 (venue and time TBC)
-- December event (date TBC)
-- February event (date TBC)
-- Link to the official current IFAB law changes page
+PUBLISHING
+1. Extract this ZIP file.
+2. Open https://github.com/GrimsbyRA/grimsby-ra-website
+3. Replace the existing index.html with this updated index.html and commit the change to the main branch.
+4. Keep the existing CNAME file in the repository root; do not delete or replace it.
+5. Wait for GitHub Pages to finish deploying, then refresh https://grimsbyreferees.co.uk
 
-To publish on GitHub Pages:
-1. Open https://github.com/GrimsbyRA/grimsby-ra-website
-2. Open index.html and choose Edit, or upload/replace the file at the repository root.
-3. Commit the change to the main branch. Keep grimsby-ra-logo.png and CNAME in the repository root.
-4. Wait for the GitHub Pages deployment to complete, then check https://grimsbyreferees.co.uk
-
-The repository's CNAME file should contain exactly: grimsbyreferees.co.uk
+The Vice Chairman position is shown as currently vacant. The events currently listed are Quiz Night on 2 November 2026 (venue/time TBC), December (TBC) and February (TBC).
